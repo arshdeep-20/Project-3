@@ -1,5 +1,10 @@
+
+
+
 //Creating a new sub class
 package cardgame;
+
+//We Have added methods and attributes
 
 /**
  Group#2

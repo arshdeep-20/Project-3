@@ -1,5 +1,7 @@
 package cardgame;
 
+//We Have added methods and attributes
+
 /**
  * Group#2
  * @author Arshdeep Singh Khosa 
